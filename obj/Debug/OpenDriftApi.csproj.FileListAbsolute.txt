@@ -68,6 +68,5 @@ C:\E\VS-Programs\OpenDriftApi\OpenDriftApi\bin\Microsoft.AI.DependencyCollector.
 C:\E\VS-Programs\OpenDriftApi\OpenDriftApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\E\VS-Programs\OpenDriftApi\OpenDriftApi\bin\Microsoft.AI.WindowsServer.xml
 C:\E\VS-Programs\OpenDriftApi\OpenDriftApi\bin\Microsoft.AI.Web.xml
-C:\E\VS-Programs\OpenDriftApi\OpenDriftApi\obj\Debug\OpenDriftApi.csprojResolveAssemblyReference.cache
 C:\E\VS-Programs\OpenDriftApi\OpenDriftApi\obj\Debug\OpenDriftApi.dll
 C:\E\VS-Programs\OpenDriftApi\OpenDriftApi\obj\Debug\OpenDriftApi.pdb
