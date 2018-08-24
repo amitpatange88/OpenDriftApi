@@ -8,7 +8,7 @@ Controller i will mention here and there usage. <br>
   <li> DateTimeController :
   		<ol>
   			<li>
-  				Get : api/datetime/timezones/ = This will get all timezones and there time based on current datetime.	
+  				<b>Get : https://domain/api/datetime/timezones/</b> = This will get all timezones and there time based on current datetime.	
   			</li>
   		</ol>
   </li>
