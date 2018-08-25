@@ -12,6 +12,15 @@ Controller i will mention here and there usage. <br>
   			</li>
   		</ol>
   </li>
+
+  <li> UniversalIdentityController :
+  		<ol>
+  			<li>
+  				<b>Get : https://domain/api/unniversalidentity/uuid/</b> = This will get universal unique identifier id.	
+  			</li>
+  		</ol>
+  </li>
+
 </ul>
 
 <br><br><br>
