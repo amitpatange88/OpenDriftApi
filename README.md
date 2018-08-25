@@ -21,6 +21,17 @@ Controller i will mention here and there usage. <br>
   		</ol>
   </li>
 
+  <li> WindowsOsController :
+      <ol>
+        <li>
+          <b>Get : https://domain/api/windows/user/</b> = Get current logged in system UserName.  
+        </li>
+        <li>
+          <b>Get : https://domain/api/windows/mac/</b> = Get physical address i.e. MAC address.  
+        </li>
+      </ol>
+  </li>
+
 </ul>
 
 <br><br><br>
