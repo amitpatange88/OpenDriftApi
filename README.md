@@ -2,7 +2,7 @@
 
 It contains useful public apis which is been regualrly used in different project areas. I will list down all types of upcoming api which in will include regualrly basis on demand. <br>
 
-Controller i will mention here and there usage. <br>
+Controller are listed here and there usage. <br>
      
 <ul>
   <li> DateTimeController :
