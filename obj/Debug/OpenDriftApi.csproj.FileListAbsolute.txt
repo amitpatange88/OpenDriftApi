@@ -71,3 +71,5 @@ C:\E\VS-Programs\OpenDriftApi\OpenDriftApi\bin\Microsoft.AI.Web.xml
 C:\E\VS-Programs\OpenDriftApi\OpenDriftApi\obj\Debug\OpenDriftApi.dll
 C:\E\VS-Programs\OpenDriftApi\OpenDriftApi\obj\Debug\OpenDriftApi.pdb
 C:\E\VS-Programs\OpenDriftApi\OpenDriftApi\obj\Debug\OpenDriftApi.csprojResolveAssemblyReference.cache
+C:\E\VS-Programs\OpenDriftApi\OpenDriftApi\bin\Swashbuckle.Core.dll
+C:\E\VS-Programs\OpenDriftApi\OpenDriftApi\bin\WebActivatorEx.dll
