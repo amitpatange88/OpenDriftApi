@@ -2,6 +2,7 @@ using System.Web.Http;
 using WebActivatorEx;
 using OpenDriftApi;
 using Swashbuckle.Application;
+using OpenDriftApi.Swagger;
 
 [assembly: PreApplicationStartMethod(typeof(SwaggerConfig), "Register")]
 
@@ -61,7 +62,7 @@ namespace OpenDriftApi
                         //c.BasicAuth("basic")
                         //    .Description("Basic HTTP Authentication");
                         //
-						// NOTE: You must also configure 'EnableApiKeySupport' below in the SwaggerUI section
+                        // NOTE: You must also configure 'EnableApiKeySupport' below in the SwaggerUI section
                         //c.ApiKey("apiKey")
                         //    .Description("API Key Authentication")
                         //    .Name("apiKey")
@@ -151,6 +152,7 @@ namespace OpenDriftApi
                         // Operation filters.
                         //
                         //c.OperationFilter<AddDefaultResponse>();
+                        c.OperationFilter<AddAuthorizationHeaderParameters>();
                         //
                         // If you've defined an OAuth2 flow as described above, you could use a custom filter
                         // to inspect some attribute on each action and infer which (if any) OAuth2 scopes are required
