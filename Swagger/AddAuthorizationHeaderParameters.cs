@@ -8,6 +8,9 @@ using Swashbuckle.Swagger;
 
 namespace OpenDriftApi.Swagger
 {
+    /// <summary>
+    /// This will add extra header params in Swagger.
+    /// </summary>
     public class AddAuthorizationHeaderParameters : IOperationFilter
     {
         public void Apply(Operation operation, SchemaRegistry schemaRegistry, ApiDescription apiDescription)
